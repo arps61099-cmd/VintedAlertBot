@@ -10,4 +10,4 @@ Un bot Telegram in italiano che monitora Vinted ogni 30 secondi e ti notifica i 
 2. Copia i tre file di questo progetto (`main.py`, `requirements.txt`, `README.md`) nel tuo Repl.  
 3. Rigenera il tuo token Telegram con @BotFather e incollalo in `main.py` al posto di:
    ```python
-   BOT_TOKEN = "5359068495:AAE1LRjzzKkq7-ydYX7zH2v7GM_82pquM3M"
+   BOT_TOKEN = "INSERISCI_IL_TUO_TOKEN_QUI"
